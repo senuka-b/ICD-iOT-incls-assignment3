@@ -1,0 +1,89 @@
+div {
+    margin: 0;
+}
+
+table {
+    marign: 0;
+}
+
+.background {
+    /* background-color: blanchedalmond; */
+    background-image: url("assets/bg-image.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+}
+
+.heading {
+    background-color: beige;
+    text-align: center;
+    margin-bottom: 0;
+}
+
+p {
+    background-color: burlywood;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+    border-radius: 1.4%;
+    padding: 1.6%;
+    margin: 10px;
+}
+
+#main-description {
+    background-color: rgb(228, 166, 119);
+    text-align: center;
+}
+
+h3 {
+    color: white;
+}
+
+summary {
+    color: white;
+}
+
+ul {
+  color: white;  
+}
+
+#map-table {
+    background-color: blanchedalmond;
+}
+
+.button {
+    padding: 10px;
+    background-color: greenyellow;
+    color: white;
+    margin-right: 80%;
+    border-radius: 10px;
+    margin-bottom: 0;
+}
+
+.title {
+    padding: 20px;
+    margin: 0;
+}
+
+.china-desc {
+    margin: 0;
+    background-color: bisque;
+    padding: 20px;
+}
+
+.line {
+    padding: 10px;
+    background-color: brown;
+}
+
+hr {
+    color: white;
+    
+}
+
+.china-slider {
+    background-color: rgb(214, 121, 87);
+    color: white;
+    padding: 18px;
+}
